@@ -85,7 +85,6 @@ body {
 }
 
 .container .card .price .current {
-  font-weight: 700;
   color: hsl(158, 36%, 37%);
   font-size: 36px;
 }
