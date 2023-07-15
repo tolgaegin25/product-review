@@ -81,6 +81,7 @@ body {
   flex-direction: row;
   gap: 20px;
   align-items: center;
+  font-family: "Fraunces", sans-serif;
 }
 
 .container .card .price .current {
